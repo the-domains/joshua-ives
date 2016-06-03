@@ -1,0 +1,28 @@
+name: joshua-ives
+favicon: null
+layout_spectrum: 0.9204655806533992
+typography_spectrum: 0.006614391226321459
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3784631306771189
+  lightness: 0.4280335318762809
+  saturation: 0.38210962084122
+  rhythmicContrast: 0.29668343788944185
+purpose: []
